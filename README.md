@@ -2,7 +2,7 @@
 
 ** WEAK PASSWORD, TRY AGAIN** 
 
-Did you get this too! 
+You have faced this situation right?
 
 Well, I have created a small App to solve this.
 
